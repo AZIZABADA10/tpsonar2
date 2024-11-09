@@ -1,0 +1,11 @@
+{
+  "name": "sonartp1",
+  "version": "1.0.0",
+  "description": "TP : Analyse de Code avec SonarQube et GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
